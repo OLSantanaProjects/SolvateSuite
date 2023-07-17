@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/69423088/253824433-a6b55273-b084-4283-a0b6-b8d40bc52890.png" width="250px"/>
+<img src="https://github.com/OLSantanaProjects/SolvateSuite/assets/69423088/49b3c56a-24d7-46fb-a1fc-28203521dba7" width="250px"/>
 </div>
 
 # _**Solvate Suite**_ 2023.07
