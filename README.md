@@ -4,4 +4,4 @@
 
 # _**Solvate Suite**_
 
-Please, visit https://github.com/otaviolsantana/solvate to download the latest version.
+Please, visit https://github.com/otaviolsantana/solvate to download the released version.
